@@ -1,4 +1,15 @@
 enrolmentnumber,coursecode,fullname,accreditingbodies,profilecode,organisationcode,qual_ceremony,qualificationfullname,qual_classification,qual_awarddate,qual_coursename,qual_ceremonycode,stud_firstname,stud_lastname,stud_dateofbirth,stud_addressline1,stud_email,stud_mobilenumber,stud_addressline2,stud_addressline3,stud_addressline4,stud_city,stud_postcode,stud_country,trans_credits,trans_transcript,trans_transcriptgraph
-
-
-512jmChimport200041,TL,L Ravi,,TL,Orgp,04-05-2020,L Ravi,,2020-05-04,FunctionaL SkiLLs QuaLification in EngLish LeveL 1 (FS),,L,Ravi,1967-05-04,LEVANA CLOSE,L_Ravi@dcweb.com,112233,VICTORIA DRIVE,LONDON,SW19,LONDON,SW19 6HP,UK,150,[H:A]Qualification~Dateofissue~Result|[C]EngLish Writing Level 1~12/02/1998~Pass|English Reading level 1~12/02/1998~Pass|English Speaking listening and Communication level 1~12/02/1998~Pass|[F]TotaL~Pass,"{ ""Width"": 500, ""Height"": 700, ""Results"": [ { ""Text"": ""Result A"", ""Value"": 50, ""TextWidth"": 43.335938 }, { ""Text"": ""Result B"", ""Value"": 10, ""TextWidth"": 42.47461 }, { ""Text"": ""HMMMM C"", ""Value"": 90, ""TextWidth"": 62.33789 }, { ""Text"": ""Looooooong D"", ""Value"": 25, ""TextWidth"": 80.42578 }, { ""Text"": ""R E"", ""Value"": 65, ""TextWidth"": 16.535156 } ], ""Tiers"": [ { ""Text"": ""Distinction"", ""Height"": 30, ""Colour"": ""#808080"" }, { ""Text"": ""Merit"", ""Height"": 10, ""Colour"": ""#A9A9A9"" }, { ""Text"": ""Pass"", ""Height"": 20, ""Colour"": ""#2F4F4F"" }, { ""Text"": ""Fail"", ""Height"": 40, ""Colour"": ""#000000"" } ] }"
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+512jmChimport200041,TL,L Ravi,,TL,Orgp,4/5/2020,L Ravi,,5/4/2020,FunctionaL SkiLLs QuaLification in EngLish LeveL 1 (FS),,L,Ravi,5/4/1967,LEVANA CLOSE,L_Ravi@dcweb.com,112233,VICTORIA DRIVE,LONDON,SW19,LONDON,SW19 6HP,UK,150,[H:A]Qualification~Dateofissue~Result|[C]EngLish Writing Level 1~12/02/1998~Pass|English Reading level 1~12/02/1998~Pass|English Speaking listening and Communication level 1~12/02/1998~Pass|[F]TotaL~Pass,"{ ""Width"": 500, ""Height"": 700, ""Results"": [ { ""Text"": ""Result A"", ""Value"": 50, ""TextWidth"": 43.335938 }, { ""Text"": ""Result B"", ""Value"": 10, ""TextWidth"": 42.47461 }, { ""Text"": ""HMMMM C"", ""Value"": 90, ""TextWidth"": 62.33789 }, { ""Text"": ""Looooooong D"", ""Value"": 25, ""TextWidth"": 80.42578 }, { ""Text"": ""R E"", ""Value"": 65, ""TextWidth"": 16.535156 } ], ""Tiers"": [ { ""Text"": ""Distinction"", ""Height"": 30, ""Colour"": ""#808080"" }, { ""Text"": ""Merit"", ""Height"": 10, ""Colour"": ""#A9A9A9"" }, { ""Text"": ""Pass"", ""Height"": 20, ""Colour"": ""#2F4F4F"" }, { ""Text"": ""Fail"", ""Height"": 40, ""Colour"": ""#000000"" } ] }"
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+512jmChimport200041,TL,L Ravi,,TL,Orgp,4/5/2020,L Ravi,,5/4/2020,FunctionaL SkiLLs QuaLification in EngLish LeveL 1 (FS),,L,Ravi,5/4/1967,LEVANA CLOSE,L_Ravi@dcweb.com,112233,VICTORIA DRIVE,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+512jmChimport200041,TL,L Ravi,,TL,Orgp,4/5/2020,L Ravi,,5/4/2020,FunctionaL SkiLLs QuaLification in EngLish LeveL 1 (FS),,L,Ravi,5/4/1967,LEVANA CLOSE,L_Ravi@dcweb.com,112233,VICTORIA DRIVE,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+512jmChimport200041,TL,L Ravi,,TL,Orgp,4/5/2020,L Ravi,,5/4/2020,FunctionaL SkiLLs QuaLification in EngLish LeveL 1 (FS),,L,Ravi,5/4/1967,LEVANA CLOSE,L_Ravi@dcweb.com,112233,VICTORIA DRIVE,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+512jmChimport200041,TL,L Ravi,,TL,Orgp,4/5/2020,L Ravi,,5/4/2020,FunctionaL SkiLLs QuaLification in EngLish LeveL 1 (FS),,L,Ravi,5/4/1967,LEVANA CLOSE,L_Ravi@dcweb.com,112233,VICTORIA DRIVE,,,,,,,,

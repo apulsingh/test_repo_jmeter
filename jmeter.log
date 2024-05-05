@@ -1,51 +1,39 @@
-2024-04-21 14:19:09,937 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
-2024-04-21 14:19:09,947 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2024-04-21 14:19:09,948 INFO o.a.j.JMeter: Loading system properties from: system.properties
-2024-04-21 14:19:09,954 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
-2024-04-21 14:19:09,955 INFO o.a.j.JMeter: Version 5.4.1
-2024-04-21 14:19:09,955 INFO o.a.j.JMeter: java.version=1.8.0_372
-2024-04-21 14:19:09,955 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
-2024-04-21 14:19:09,955 INFO o.a.j.JMeter: os.name=Windows 11
-2024-04-21 14:19:09,955 INFO o.a.j.JMeter: os.arch=amd64
-2024-04-21 14:19:09,955 INFO o.a.j.JMeter: os.version=10.0
-2024-04-21 14:19:09,955 INFO o.a.j.JMeter: file.encoding=Cp1252
-2024-04-21 14:19:09,955 INFO o.a.j.JMeter: java.awt.headless=null
-2024-04-21 14:19:09,955 INFO o.a.j.JMeter: Max memory     =3749183488
-2024-04-21 14:19:09,955 INFO o.a.j.JMeter: Available Processors =4
-2024-04-21 14:19:09,958 INFO o.a.j.JMeter: Default Locale=English (United States)
-2024-04-21 14:19:09,959 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
-2024-04-21 14:19:09,959 INFO o.a.j.JMeter: JMeterHome=D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1
-2024-04-21 14:19:09,959 INFO o.a.j.JMeter: user.dir  =D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\bin
-2024-04-21 14:19:09,959 INFO o.a.j.JMeter: PWD       =D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\bin
-2024-04-21 14:19:09,967 INFO o.a.j.JMeter: IP: 192.168.1.11 Name: DESKTOP-MEONEEL FullName: 192.168.1.11
-2024-04-21 14:19:10,045 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.SolarizedLightTheme
-2024-04-21 14:19:10,314 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2024-04-21 14:19:11,597 WARN o.j.r.PluginManager: Found JAR conflict: D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\lib\jmeter-plugins-cmn-jmeter-0.7.jar and D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\lib\jmeter-plugins-cmn-jmeter-0.6.jar
-2024-04-21 14:19:11,597 WARN o.j.r.PluginManager: Found JAR conflict: D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\lib\ext\jmeter-plugins-manager-1.7.jar and D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\lib\ext\jmeter-plugins-manager-1.6.jar
-2024-04-21 14:19:12,154 INFO o.j.r.JARSourceHTTP: Found cached repo
-2024-04-21 14:19:12,350 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-casutg=2.10, jpgc-perfmon=2.1, jpgc-plugins-manager=1.6, jmeter-core=5.4.1, jmeter-ftp=5.4.1, jmeter-http=5.4.1, jmeter-jdbc=5.4.1, jmeter-jms=5.4.1, jmeter-junit=5.4.1, jmeter-java=5.4.1, jmeter-ldap=5.4.1, jmeter-mail=5.4.1, jmeter-mongodb=5.4.1, jmeter-native=5.4.1, jmeter-tcp=5.4.1, jmeter-components=5.4.1]
-2024-04-21 14:19:12,351 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
-2024-04-21 14:19:18,118 INFO o.a.j.s.FileServer: Default base='D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\bin'
-2024-04-21 14:19:18,122 INFO o.a.j.g.a.Load: Loading file: D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin\PostgresPercona.jmx
-2024-04-21 14:19:18,122 INFO o.a.j.s.FileServer: Set new base='D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin'
-2024-04-21 14:19:18,231 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2024-04-21 14:19:18,240 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2024-04-21 14:19:18,241 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2024-04-21 14:19:18,243 INFO o.a.j.s.SaveService: Loading file: D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin\PostgresPercona.jmx
-2024-04-21 14:19:18,640 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2024-04-21 14:19:18,640 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
-2024-04-21 14:19:18,641 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2024-04-21 14:19:18,641 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2024-04-21 14:19:18,977 INFO o.a.j.s.FileServer: Set new base='D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin'
-2024-04-22 16:59:08,266 INFO o.a.j.g.a.Load: Loading file: D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin\Java_Jmeter.jmx
-2024-04-22 16:59:08,270 INFO o.a.j.s.FileServer: Set new base='D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin'
-2024-04-22 16:59:08,271 INFO o.a.j.s.SaveService: Loading file: D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin\Java_Jmeter.jmx
-2024-04-22 16:59:08,466 INFO o.a.j.s.FileServer: Set new base='D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin'
-2024-04-26 10:55:58,251 INFO o.a.j.g.a.Load: Loading file: D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin\Java_Jmeter.jmx
-2024-04-26 10:55:58,253 INFO o.a.j.s.FileServer: Set new base='D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin'
-2024-04-26 10:55:58,253 INFO o.a.j.s.SaveService: Loading file: D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin\Java_Jmeter.jmx
-2024-04-26 10:55:58,407 INFO o.a.j.s.FileServer: Set new base='D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin'
-2024-04-26 10:56:16,202 INFO o.a.j.g.a.Load: Loading file: D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin\PostgresPercona.jmx
-2024-04-26 10:56:16,202 INFO o.a.j.s.FileServer: Set new base='D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin'
-2024-04-26 10:56:16,202 INFO o.a.j.s.SaveService: Loading file: D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin\PostgresPercona.jmx
-2024-04-26 10:56:16,347 INFO o.a.j.s.FileServer: Set new base='D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin'
+2024-05-05 14:16:05,108 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2024-05-05 14:16:05,125 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-05-05 14:16:05,133 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-05-05 14:16:05,140 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2024-05-05 14:16:05,141 INFO o.a.j.JMeter: Version 5.4.1
+2024-05-05 14:16:05,141 INFO o.a.j.JMeter: java.version=1.8.0_372
+2024-05-05 14:16:05,141 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2024-05-05 14:16:05,141 INFO o.a.j.JMeter: os.name=Windows 11
+2024-05-05 14:16:05,141 INFO o.a.j.JMeter: os.arch=amd64
+2024-05-05 14:16:05,141 INFO o.a.j.JMeter: os.version=10.0
+2024-05-05 14:16:05,141 INFO o.a.j.JMeter: file.encoding=Cp1252
+2024-05-05 14:16:05,141 INFO o.a.j.JMeter: java.awt.headless=null
+2024-05-05 14:16:05,141 INFO o.a.j.JMeter: Max memory     =3749183488
+2024-05-05 14:16:05,141 INFO o.a.j.JMeter: Available Processors =4
+2024-05-05 14:16:05,146 INFO o.a.j.JMeter: Default Locale=English (United States)
+2024-05-05 14:16:05,146 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2024-05-05 14:16:05,146 INFO o.a.j.JMeter: JMeterHome=D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1
+2024-05-05 14:16:05,146 INFO o.a.j.JMeter: user.dir  =D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\bin
+2024-05-05 14:16:05,147 INFO o.a.j.JMeter: PWD       =D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\bin
+2024-05-05 14:16:05,174 INFO o.a.j.JMeter: IP: 192.168.1.11 Name: DESKTOP-MEONEEL FullName: 192.168.1.11
+2024-05-05 14:16:05,322 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.SolarizedLightTheme
+2024-05-05 14:16:05,844 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-05-05 14:16:07,348 WARN o.j.r.PluginManager: Found JAR conflict: D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\lib\jmeter-plugins-cmn-jmeter-0.7.jar and D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\lib\jmeter-plugins-cmn-jmeter-0.6.jar
+2024-05-05 14:16:07,349 WARN o.j.r.PluginManager: Found JAR conflict: D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\lib\ext\jmeter-plugins-manager-1.7.jar and D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\lib\ext\jmeter-plugins-manager-1.6.jar
+2024-05-05 14:16:08,013 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_11-b27706fe63607d2f7102d51af4d09e06-gui
+2024-05-05 14:16:12,440 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-casutg=2.10, jpgc-perfmon=2.1, jpgc-plugins-manager=1.6, jmeter-core=5.4.1, jmeter-ftp=5.4.1, jmeter-http=5.4.1, jmeter-jdbc=5.4.1, jmeter-jms=5.4.1, jmeter-junit=5.4.1, jmeter-java=5.4.1, jmeter-ldap=5.4.1, jmeter-mail=5.4.1, jmeter-mongodb=5.4.1, jmeter-native=5.4.1, jmeter-tcp=5.4.1, jmeter-components=5.4.1]
+2024-05-05 14:16:12,444 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2024-05-05 14:16:38,911 INFO o.a.j.s.FileServer: Default base='D:\Performance_Tools\JMETER\apache-jmeter-5.4.1\apache-jmeter-5.4.1\bin'
+2024-05-05 14:16:38,963 INFO o.a.j.g.a.Load: Loading file: D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin\PostgresPercona.jmx
+2024-05-05 14:16:38,964 INFO o.a.j.s.FileServer: Set new base='D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin'
+2024-05-05 14:16:39,113 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-05-05 14:16:39,131 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-05-05 14:16:39,132 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-05-05 14:16:39,135 INFO o.a.j.s.SaveService: Loading file: D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin\PostgresPercona.jmx
+2024-05-05 14:16:39,491 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-05-05 14:16:39,491 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2024-05-05 14:16:39,491 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-05-05 14:16:39,491 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-05-05 14:16:39,745 INFO o.a.j.s.FileServer: Set new base='D:\Performance_Tools\JMETER\apache-jmeter-5.5\apache-jmeter-5.5\bin'
